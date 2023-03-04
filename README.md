@@ -1,0 +1,2 @@
+# hackathon
+Solana Mini Hackathon
